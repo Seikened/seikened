@@ -1,6 +1,6 @@
 # ¡Hola, soy Fernando Leon Franco (Seikened)! 👾
 
-**Ingeniero en IA** | _Apasionado por descubrir cosas nuevas_ 
+ _Apasionado por descubrir cosas nuevas_ 
 
 [![Ingeniero en IA](https://img.shields.io/badge/-Ingeniero%20en%20IA-3F51B5?style=for-the-badge&logo=OpenAI&logoColor=white)](#)
 <!--
