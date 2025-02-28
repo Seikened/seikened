@@ -1,4 +1,4 @@
-# ¡Hola, soy Fernando León Franco (Seikened)! 👋
+# ¡Hola, soy Fernando Leon Franco (Seikened)! 👾
 
 **Ingeniero en IA** | _Apasionado por descubrir cosas nuevas_ 
 
