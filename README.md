@@ -1,6 +1,6 @@
 # ¡Hola, soy Fernando León Franco (Seikened)! 👋
 
-**Ingeniero en IA** | _Apasionado por descubrir cosas nuevas_ | **Habilidad:** Disciplina
+**Ingeniero en IA** | _Apasionado por descubrir cosas nuevas_ 
 
 [![GitHub followers](https://img.shields.io/github/followers/Seikened?style=for-the-badge&label=Follow%20@Seikened)](https://github.com/Seikened?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Seikened&style=for-the-badge)](https://github.com/Seikened)
