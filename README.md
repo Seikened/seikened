@@ -33,13 +33,6 @@
 [![Stars - Semestre II](https://img.shields.io/github/stars/Seikened/Semestre_II?style=for-the-badge)](https://github.com/Seikened/Semestre_II/stargazers)
 [![Forks - Semestre II](https://img.shields.io/github/forks/Seikened/Semestre_II?style=for-the-badge)](https://github.com/Seikened/Semestre_II/network)
 -->
----
-
-## Mi Blog en Reflex
-
-[![Reflex Blog](https://img.shields.io/badge/Reflex%20Blog-Online-blueviolet?style=for-the-badge&logo=vercel)](https://fer_blog-cyan-moon.reflex.run/)
-
----
 
 ## Estadísticas de GitHub
 
