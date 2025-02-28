@@ -2,14 +2,15 @@
 
 **Ingeniero en IA** | _Apasionado por descubrir cosas nuevas_ 
 
-[![GitHub followers](https://img.shields.io/github/followers/Seikened?style=for-the-badge&label=Follow%20@Seikened)](https://github.com/Seikened?tab=followers)
+[![Ingeniero en IA](https://img.shields.io/badge/-Ingeniero%20en%20IA-3F51B5?style=for-the-badge&logo=OpenAI&logoColor=white)](#)
+<!--
+[![GitHub followers](https://img.shields.io/github/followers/Seikened?style=for-the-badge&label=Follow%20@Seikened)](https://github.com/Seikened?tab=followers)-->
 [![Profile Views](https://komarev.com/ghpvc/?username=Seikened&style=for-the-badge)](https://github.com/Seikened)
 
 ---
 
 ## Stack Tecnológico
 
-[![Ingeniero en IA](https://img.shields.io/badge/-Ingeniero%20en%20IA-3F51B5?style=for-the-badge&logo=OpenAI&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Reflex](https://img.shields.io/badge/-Reflex-8C62E3?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/reflex-dev/reflex)
