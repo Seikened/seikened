@@ -26,10 +26,11 @@
 [![Semestre III](https://img.shields.io/badge/Semestre%20III-Projects-yellow?style=for-the-badge&logo=github)](https://github.com/Seikened/Semestre_III)
 [![Semestre IV](https://img.shields.io/badge/Semestre%20IV-Projects-green?style=for-the-badge&logo=github)](https://github.com/Seikened/semestre_IV)
 
+<!--
 ### Forks & Stars (Ejemplo con Semestre II)
 [![Stars - Semestre II](https://img.shields.io/github/stars/Seikened/Semestre_II?style=for-the-badge)](https://github.com/Seikened/Semestre_II/stargazers)
 [![Forks - Semestre II](https://img.shields.io/github/forks/Seikened/Semestre_II?style=for-the-badge)](https://github.com/Seikened/Semestre_II/network)
-
+-->
 ---
 
 ## Mi Blog en Reflex
