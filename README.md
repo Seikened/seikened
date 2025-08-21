@@ -19,6 +19,7 @@ Horas en python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=
 ## Stack Tecnológico
 
 **Backend**
+
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
@@ -27,6 +28,7 @@ Horas en python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 **Frontend**
+
 [![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -36,16 +38,19 @@ Horas en python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=
 [![Reflex](https://img.shields.io/badge/-Reflex-8C62E3?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/reflex-dev/reflex)
 
 **Infra & DevOps**
+
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Dokploy](https://img.shields.io/badge/-Dokploy-111111?style=for-the-badge&logo=docker&logoColor=white)](https://dokploy.com/)
 [![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 **Ecosistema Dev**
+
 [![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seikened)
+
 ---
 
 ## Repositorios Destacados
