@@ -32,7 +32,6 @@ Horas en python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Pinia](https://img.shields.io/badge/-Pinia-F7D336?style=for-the-badge&logo=pinia&logoColor=black)](https://pinia.vuejs.org/)
 [![Nuxt UI](https://img.shields.io/badge/-Nuxt%20UI-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://ui.nuxt.com/)
 [![Reflex](https://img.shields.io/badge/-Reflex-8C62E3?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/reflex-dev/reflex)
 
