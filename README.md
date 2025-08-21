@@ -7,7 +7,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/Seikened?style=for-the-badge&label=Follow%20@Seikened)](https://github.com/Seikened?tab=followers)-->
 [![Profile Views](https://komarev.com/ghpvc/?username=Seikened&style=for-the-badge)](https://github.com/Seikened)
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26203%26project%3D%26in=0)](https://codetime.dev)
+
+## Tiempo de xp
+Horas totales: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26203)](https://codetime.dev)
+
+Horas en python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26203%26language%3Dpython)](https://codetime.dev)
+
 
 ---
 
