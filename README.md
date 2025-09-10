@@ -58,6 +58,7 @@ Horas en python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=
 [![Semestre II](https://img.shields.io/badge/Semestre%20II-Repo-%23E67E22?style=flat-square&logo=github)](https://github.com/Seikened/Semestre_II)
 [![Semestre III](https://img.shields.io/badge/Semestre%20III-Repo-%23F1C40F?style=flat-square&logo=github)](https://github.com/Seikened/Semestre_III)
 [![Semestre IV](https://img.shields.io/badge/Semestre%20IV-Repo-%2334B27A?style=flat-square&logo=github)](https://github.com/Seikened/semestre_IV)
+[![Semestre V](https://img.shields.io/badge/Semestre%20V-Repo-%2334B27A?style=flat-square&logo=github)](https://github.com/Seikened/semestre_V)
 [![Rialway Deploy Template](https://img.shields.io/badge/Rialway%20Deploy%20Template-Repo-%235C4EE5?style=flat-square&logo=github)](https://github.com/Seikened/template_reflex_on_rialway)
 
 <!--
