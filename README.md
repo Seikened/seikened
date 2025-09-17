@@ -51,6 +51,13 @@ Horas en python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seikened)
 
+
+---
+
+## Proyectos destacados ⭐️
+[![Repo](https://img.shields.io/badge/Repo-Economista%20inteligente-181717?logo=github&logoColor=green)](https://github.com/Seikened/economista_inteligente)
+[![Repo](https://img.shields.io/badge/Repo-Bone%20Age%20Predictor-181717?logo=github&logoColor=orange)](https://github.com/Seikened/bone_age_predictor)
+
 ---
 
 ## Repositorios Destacados
@@ -61,11 +68,8 @@ Horas en python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=
 [![Semestre V](https://img.shields.io/badge/Semestre%20V-Repo-%2334B27A?style=flat-square&logo=github)](https://github.com/Seikened/semestre_V)
 [![Rialway Deploy Template](https://img.shields.io/badge/Rialway%20Deploy%20Template-Repo-%235C4EE5?style=flat-square&logo=github)](https://github.com/Seikened/template_reflex_on_rialway)
 
-<!--
-### Forks & Stars (Ejemplo con Semestre II)
-[![Stars - Semestre II](https://img.shields.io/github/stars/Seikened/Semestre_II?style=for-the-badge)](https://github.com/Seikened/Semestre_II/stargazers)
-[![Forks - Semestre II](https://img.shields.io/github/forks/Seikened/Semestre_II?style=for-the-badge)](https://github.com/Seikened/Semestre_II/network)
--->
+
+---
 
 ## Estadísticas de GitHub
 
