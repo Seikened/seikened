@@ -5,7 +5,7 @@
 [![Ingeniero en IA](https://img.shields.io/badge/-Ingeniero%20en%20IA-3F51B5?style=for-the-badge&logo=OpenAI&logoColor=white)](#)
 <!--
 [![GitHub followers](https://img.shields.io/github/followers/Seikened?style=for-the-badge&label=Follow%20@Seikened)](https://github.com/Seikened?tab=followers)-->
-[![Profile Views](https://komarev.com/ghpvc/?username=Seikened&style=for-the-badge)](https://github.com/Seikened)
+<!--[![Profile Views](https://komarev.com/ghpvc/?username=Seikened&style=for-the-badge)](https://github.com/Seikened)-->
 
 
 ## Tiempo de xp
