@@ -54,6 +54,23 @@ Horas en python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=
 
 ---
 
+## Open Source & Research
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/idiap/sdialog/master/docs/_static/logo-banner.png" height="70" alt="SDialog Logo">
+</p>
+
+**Contributor at SDialog (Idiap Research Institute / JSALT 2025)**  
+Aportación al toolkit open-source para **simulación y evaluación de diálogos con LLMs**, utilizado en investigación académica internacional.  
+Incluido oficialmente en el listado de contribuyentes del proyecto.
+
+🔗 PR: https://github.com/idiap/sdialog/pull/114  
+🔗 Contribuciones: https://github.com/idiap/sdialog/commits?author=Seikened  
+🔗 Proyecto: https://github.com/idiap/sdialog
+
+
+---
+
 ## Proyectos destacados ⭐️
 [![Repo](https://img.shields.io/badge/Repo-Economista%20inteligente-181717?logo=github&logoColor=green)](https://github.com/Seikened/economista_inteligente)
 [![Repo](https://img.shields.io/badge/Repo-Bone%20Age%20Predictor-181717?logo=github&logoColor=orange)](https://github.com/Seikened/bone_age_predictor)
