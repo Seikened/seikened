@@ -75,7 +75,7 @@ Incluido oficialmente en el listado de contribuyentes del proyecto.
 ## Proyectos destacados ⭐️
 [![Repo](https://img.shields.io/badge/Repo-Economista%20inteligente-181717?logo=github&logoColor=green)](https://github.com/Seikened/economista_inteligente)
 [![Repo](https://img.shields.io/badge/Repo-Bone%20Age%20Predictor-181717?logo=github&logoColor=orange)](https://github.com/Seikened/bone_age_predictor)
-
+[![Rialway Deploy Template](https://img.shields.io/badge/Rialway%20Deploy%20Template-Repo-%235C4EE5?style=flat-square&logo=github)](https://github.com/Seikened/template_reflex_on_rialway)
 ---
 
 ## Librerías publicadas en PyPI 📦
@@ -99,8 +99,6 @@ Toolkit para tareas y procesos en Django con Celery, pensado como base para proy
 [![Semestre III](https://img.shields.io/badge/Semestre%20III-Repo-%23F1C40F?style=flat-square&logo=github)](https://github.com/Seikened/Semestre_III)
 [![Semestre IV](https://img.shields.io/badge/Semestre%20IV-Repo-%2334B27A?style=flat-square&logo=github)](https://github.com/Seikened/semestre_IV)
 [![Semestre V](https://img.shields.io/badge/Semestre%20V-Repo-%2334B27A?style=flat-square&logo=github)](https://github.com/Seikened/semestre_V)
-[![Rialway Deploy Template](https://img.shields.io/badge/Rialway%20Deploy%20Template-Repo-%235C4EE5?style=flat-square&logo=github)](https://github.com/Seikened/template_reflex_on_rialway)
-
 
 ---
 
