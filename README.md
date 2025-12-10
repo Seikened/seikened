@@ -75,7 +75,8 @@ Incluido oficialmente en el listado de contribuyentes del proyecto.
 ## Proyectos destacados ⭐️
 [![Repo](https://img.shields.io/badge/Repo-Economista%20inteligente-181717?logo=github&logoColor=green)](https://github.com/Seikened/economista_inteligente)
 [![Repo](https://img.shields.io/badge/Repo-Bone%20Age%20Predictor-181717?logo=github&logoColor=orange)](https://github.com/Seikened/bone_age_predictor)
-[![Rialway Deploy Template](https://img.shields.io/badge/Rialway%20Deploy%20Template-Repo-%235C4EE5?style=flat-square&logo=github)](https://github.com/Seikened/template_reflex_on_rialway)
+[![Repo](https://img.shields.io/badge/Repo-Railway%20Deploy%20Template-181717?logo=github&logoColor=%235C4EE5)](https://github.com/Seikened/template_reflex_on_rialway)
+
 ---
 
 ## Librerías publicadas en PyPI 📦
