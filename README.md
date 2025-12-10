@@ -78,7 +78,22 @@ Incluido oficialmente en el listado de contribuyentes del proyecto.
 
 ---
 
-## Repositorios Destacados
+## Librerías publicadas en PyPI 📦
+
+Actualmente mantengo algunas librerías publicadas en PyPI, enfocadas en herramientas para backend y desarrollo en Python.
+
+[![PyPI - whatsapp-toolkit](https://img.shields.io/pypi/v/whatsapp-toolkit?label=whatsapp-toolkit&color=0d6efd)](https://pypi.org/project/whatsapp-toolkit/)  
+**Cliente ligero para la API de WhatsApp (Evolution API)**, pensado para integrarse en backends Python de forma simple y legible.  
+
+[![PyPI - colorstreak](https://img.shields.io/pypi/v/colorstreak?label=colorstreak&color=8e44ad)](https://pypi.org/project/colorstreak/)  
+Formateo de color para terminal en Python, con soporte para logging y salidas más amigables para CLI.  
+
+[![PyPI - epok-toolkit](https://img.shields.io/pypi/v/epok-toolkit?label=epok-toolkit&color=27ae60)](https://pypi.org/project/epok-toolkit/)  
+Toolkit para tareas y procesos en Django con Celery, pensado como base para proyectos productivos.
+
+---
+
+## Repositorios de la carrera de Ingeniería de Inteligencia Artificial 🧠
 [![Semestre II](https://img.shields.io/badge/Semestre%20I-Repo-%23E67E22?style=flat-square&logo=github)](https://github.com/Seikened/semestre_I)
 [![Semestre II](https://img.shields.io/badge/Semestre%20II-Repo-%23E67E22?style=flat-square&logo=github)](https://github.com/Seikened/Semestre_II)
 [![Semestre III](https://img.shields.io/badge/Semestre%20III-Repo-%23F1C40F?style=flat-square&logo=github)](https://github.com/Seikened/Semestre_III)
