@@ -1,24 +1,20 @@
 # ¡Hola, soy Fernando Leon Franco (Seikened)! 👾
 
-> **AI Engineer & Fullstack Architect.**
-> _Apasionado por descubrir cosas nuevas._
-> Actualmente cursando la **Ingeniería en Inteligencia Artificial**.
+> **AI Engineer · Researcher · Applied AI Systems**
+> _Speaker · Apasionado por descubrir, construir y explicar cosas nuevas._
+> Actualmente cursando el **7.º semestre de Ingeniería en Inteligencia Artificial**.
 
 [![Ingeniero en IA](https://img.shields.io/badge/ROLE-AI%20ENGINEER-black?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![Python Expert](https://img.shields.io/badge/CORE-PYTHON%20ECOSYSTEM-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Production Ready](https://img.shields.io/badge/FOCUS-PRODUCTION%20READY-B02E0C?style=for-the-badge&logo=githubactions&logoColor=white)](#)
-
-## ⏱️ Tiempo de XP
-Horas totales: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26203)](https://codetime.dev)
-
-Horas en Python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26203%26language%3Dpython)](https://codetime.dev)
+[![Agentic Systems](https://img.shields.io/badge/FOCUS-AGENTIC%20SYSTEMS-181717?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 ---
 
 ### ⚡ Filosofía Técnica
-* **High-Performance:** Prioridad absoluta en la velocidad de cómputo y memoria.
-* **Sistemas Escalables:** Construcción de backends sólidos para soportar cargas reales.
-* **Production-First:** La IA solo genera valor cuando está desplegada, automatizada y monitoreada.
+* **High-Performance:** Prioridad en eficiencia de cómputo, memoria y diseño.
+* **AI-First & Agentic Systems:** Sistemas donde la IA forma parte de la arquitectura y no solo de una capa añadida al producto.
+* **Production-First:** La IA genera valor cuando puede desplegarse, observarse, mantenerse y evolucionar.
+
 ---
 
 ### 🛠 Stack Tecnológico
@@ -29,7 +25,7 @@ Horas en Python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ML_Framework-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![Hugging Face](https://img.shields.io/badge/Transformers-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)]()
-[![LangChain](https://img.shields.io/badge/LangChain-LLM_Ops-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)]()
+[![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-Agentic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
 [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-ML_Classic-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
 [![SDialog](https://img.shields.io/badge/SDialog-LLM_Simulation-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/idiap/sdialog)
@@ -58,18 +54,33 @@ Horas en Python: [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=
 
 ---
 
-### 🔬 Open Source & Research
+### 🔬 Research & Open Source
+
+#### 🦴 Bone Age Prediction · Medical AI / Computer Vision
+Investigación aplicada enfocada en la **estimación de edad ósea mediante inteligencia artificial**, trabajando con datos e imagen médica junto a investigadores y estudiantes de ingeniería. El proyecto explora modelos de aprendizaje automático orientados a mejorar la precisión y eficiencia del proceso de estimación.
+
+🔗 [Repositorio: Bone Age Predictor](https://github.com/Seikened/bone_age_predictor)
+
+#### 💬 SDialog · Idiap Research Institute / JSALT 2025
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/idiap/sdialog/master/docs/_static/logo-banner.png" height="70" alt="SDialog Logo">
 </p>
 
-**Contributor at SDialog (Idiap Research Institute / JSALT 2025)** Aportación al toolkit open-source para **simulación y evaluación de diálogos con LLMs**, utilizado en investigación académica internacional.  
-Incluido oficialmente en el listado de contribuyentes del proyecto.
+Contribución al toolkit open-source para **simulación y evaluación de diálogos con LLMs**, utilizado en investigación académica internacional. Incluido oficialmente en el listado de contribuyentes del proyecto.
 
-🔗 [PR: Pull Request #114](https://github.com/idiap/sdialog/pull/114)  
+🔗 [Pull Request #114](https://github.com/idiap/sdialog/pull/114)  
 🔗 [Mis Contribuciones](https://github.com/idiap/sdialog/commits?author=Seikened)  
 🔗 [Proyecto Oficial](https://github.com/idiap/sdialog)
+
+#### ⚛️ Quantum Computing
+Línea de investigación académica en curso alrededor de **computación cuántica** y su relación con problemas computacionales e inteligencia artificial.
+
+---
+
+### 🎙️ Technical Talks
+
+Speaker sobre **inteligencia artificial, fundamentos, sistemas agénticos y aplicaciones de IA**.
 
 ---
 
@@ -104,11 +115,6 @@ Toolkit base para orquestación de tareas en Django con Celery.
 [![Semestre II](https://img.shields.io/badge/Semestre%20II-Repo-%23E67E22?style=flat-square&logo=github)](https://github.com/Seikened/Semestre_II)
 [![Semestre III](https://img.shields.io/badge/Semestre%20III-Repo-%23F1C40F?style=flat-square&logo=github)](https://github.com/Seikened/Semestre_III)
 [![Semestre IV](https://img.shields.io/badge/Semestre%20IV-Repo-%2334B27A?style=flat-square&logo=github)](https://github.com/Seikened/semestre_IV)
-[![Semestre V](https://img.shields.io/badge/Semestre%20V-Repo-%2334B27A?style=flat-square&logo=github)](https://github.com/Seikened/semestre_V)
-
----
-
-## 📊 Estadísticas de GitHub
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Seikened)](https://github.com/LordDashMe/github-contribution-stats/)
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seikened&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Semestre V](https://img.shields.io/badge/Semestre%20V-Repo-%2334B27A?style=flat-square&logo=github)](https://github.com/Seikened/semestre_v)
+[![Semestre VI](https://img.shields.io/badge/Semestre%20VI-Repo-%2334B27A?style=flat-square&logo=github)](https://github.com/Seikened/semestre_vi)
+[![Semestre VII](https://img.shields.io/badge/Semestre%20VII-En%20curso-%230D6EFD?style=flat-square&logo=github)](https://github.com/Seikened/semestre_vii)
